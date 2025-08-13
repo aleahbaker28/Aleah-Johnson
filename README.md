@@ -14,7 +14,7 @@ I'm currently **looking for an opportunity to join an organization that excites 
 
 ## 🛠️ Skills & Certifications
 
-- **CAD Tools:** AutoCAD, SolidWorks, Revit, Inventor, SDS/2 BIM  
+- **CAD Tools:** AutoCAD, SolidWorks, Revit, Inventor  
 - **Certifications:**  
   - Certified SolidWorks Associate (CSWA)  
   - Drafting NOCTI  
